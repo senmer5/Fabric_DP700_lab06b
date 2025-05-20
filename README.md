@@ -1,4 +1,3 @@
-# Fabric_DP700_lab06b
 # 📊 Querying a Data Warehouse in Microsoft Fabric
 
 ## 🎯 Objective  
